@@ -1,0 +1,3 @@
+asim,123,admin
+asimmmm,1234,admin
+mulla,123,customer

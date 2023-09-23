@@ -1,0 +1,48 @@
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+C:\Users\Asim Ali\source\repos\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\bin\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\bin\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\obj\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week2\BusinessAppList\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week3\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week4\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb

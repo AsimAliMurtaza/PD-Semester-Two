@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\bin\Debug\Task.exe.config
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\bin\Debug\Task.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\bin\Debug\Task.pdb
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\obj\Debug\Task.exe
+D:\UET BS-CS\SEMESTER 02\PD\Week4\Task\Task\obj\Debug\Task.pdb

@@ -1,0 +1,10 @@
+1,orange,200,1000,fruit
+2,milk,300,120,dairy
+3,bhindi,40,200,vegetable
+5,banana,150,50,fruit
+6,tuna,400,5,canned
+8,billi,630,10,canned
+9,woof,20,350,canned
+10,Aloo,8,30,vegetable
+11,Kutta,9,120,canned
+23,bb,444,333,fruit
